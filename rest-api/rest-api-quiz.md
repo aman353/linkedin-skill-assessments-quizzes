@@ -331,3 +331,10 @@
 - [x] `201`
 - [ ] `204`
 - [ ] `202`
+
+#### Q54. Which OAuth grant type support refresh token?
+
+- [ ] `authorization_code`
+- [ ] `client_credentials`
+- [ ] `password`
+- [x] `refresh_token`
